@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
  <!-- - 💞️ I’m looking to collaborate on ... --> 
 ### Contact
-- 📫 How to reach me: @Discord https://discord.gg/Gt9wXnSCpU || [Maxnflaxl#8141](https://discordapp.com/users/689128445271474215)
+- 📫 How to reach me: @Discord || [Maxnflaxl#8141](https://discordapp.com/users/689128445271474215)
 
 <!---
 Maxnflaxl/Maxnflaxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
