@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Maxnflaxl
-<!--- - 👀 I’m interested in d.js -->
 - 🌱 I’m currently learning @BeamMW DApps & Shaders
  <!-- - 💞️ I’m looking to collaborate on ... --> 
 ### Contact
-- 📫 How to reach me: @Discord || [Maxnflaxl#8141](https://discordapp.com/users/689128445271474215)
+- 📫 How to reach me: @Discord || [@Maxnflaxl](https://discordapp.com/users/689128445271474215)
                       @Telegram || [@maxnflaxl](https://t.me/maxnflaxl)
 
 <!---
