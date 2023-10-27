@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxnflaxl
-- 🌱 I’m currently learning [@BeamMW](https://GitHub.com/BeamMW) DApps & Shaders
+- 🌱 I’m currently learning [@BeamMW](https://GitHub.com/BeamMW) DApps & Shaders and working on a TipBot for the Beam/Tico Community
  <!-- - 💞️ I’m looking to collaborate on ... --> 
 ### Contact
 - 📫 How to reach me: [Discord](https://discordapp.com/users/689128445271474215) ||
