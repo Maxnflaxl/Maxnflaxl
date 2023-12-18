@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxnflaxl
 
-@BeamMW
-@TicoTip
+[@BeamMW](https://Github.com/BeamMW)
+[@TicoTip](https://Github.com/TicoTip)
 
 ### Contact
 - 📫 How to reach me: [Discord](https://discordapp.com/users/689128445271474215) ||
