@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/maxnflaxl" target="blank"><img src="https://img.shields.io/twitter/follow/maxnflaxl?logo=twitter&style=for-the-badge" alt="maxnflaxl" /></a> </p>
 
-<div align="center" > 🔭 I’m currently working on <a href=https://Github.com/BeamMW>BeamMW</a> and <a href="https://Github.com/TicoTip">Tico</a> </div>
+<div align="center" > 🔭 I’m currently working on <a href=https://Github.com/BeamMW>BeamMW</a> and <a href="https://Github.com/TicoTipMe">Tico</a> </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
